@@ -5,7 +5,7 @@ import Country from './Country'
 const SearchedCoutries = ({ searchedCountry, theme, expand, setExpand, setClicked}) => {
     return (
     <>
-      <div className="container">
+      <div className="container min-vh-100">
         <div className="row align-items-center mt-5">
             {searchedCountry.map((country, index) => {
                 return(
