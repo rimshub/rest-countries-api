@@ -2,8 +2,8 @@
 
 Website which integrates with the [REST Countries API](https://restcountries.com/) to pull country data and display it.
 
-- Solution URL: [Github repo]()
-- Live Site URL: [live site URL here]()
+- Solution URL: [Github repo](https://github.com/rimshub)
+- Live Site URL: [live site URL here](https://rest-countries-api-rimshub.vercel.app/)
 
 ### User should be able to:
 
@@ -28,7 +28,7 @@ Website which integrates with the [REST Countries API](https://restcountries.com
 ## Author
 
 - Website - [Github](https://github.com/rimshub)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/rimshub)
+- Frontend Mentor - [@rimshub](https://www.frontendmentor.io/profile/rimshub)
 
 ## Acknowledgments
 
