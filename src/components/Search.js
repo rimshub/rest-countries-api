@@ -25,8 +25,8 @@ import { useState } from 'react'
                         {color: 'hsl(0, 0%, 52%)', position: 'absolute', marginLeft: '1rem', marginTop: '1.2rem'}}/>
                     <input 
                         type='search' 
-                        className={theme ? "bg-dark-element custom-input shadow-sm text-start custom-font" 
-                        : "custom-input shadow-sm text-start custom-font" }
+                        className={theme ? "bg-dark-element custom-input shadow-sm text-start custom-font px-5 py-3" 
+                        : "custom-input shadow-sm text-start custom-font px-5 py-3"}
                         placeholder="  Search for a country..." 
                         name="searchText"
                         value={searchText}
@@ -38,7 +38,7 @@ import { useState } from 'react'
                     /> 
                 </div>
 
-                <div className="mt-5 mt-md-0">
+                <div className="mt-5 mt-lg-0">
                     <div className="dropdown">
                         <button className={theme ? 
                             "bg-dark-element btn dropdown-toggle shadow-sm custom-dd custom-dark custom-font" : 
